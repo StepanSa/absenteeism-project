@@ -1,4 +1,5 @@
 # Absenteeism Case Study
+This project is based on the "The Data Science Course: Complete Data Science Bootcamp 2024" on Udemy.
 This repository contains a case study on predicting employee absenteeism using machine learning techniques. The project involves data preprocessing, data visualization, and building a logistic regression model to classify excessive absenteeism.
 
 ## Dataset
